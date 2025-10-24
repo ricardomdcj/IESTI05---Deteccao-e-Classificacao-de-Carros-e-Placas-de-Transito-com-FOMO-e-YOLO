@@ -9,6 +9,7 @@ O vídeo com o Dataset, YOLO + FOMO se encontra no link:
 </a>
 https://youtu.be/fok5wJpBw3U
 
+
 Os vídeos de inferência se encontram nos links:
 
 FOMO Run #1: 
