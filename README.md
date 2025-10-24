@@ -1,4 +1,4 @@
-<img width="984" height="895" alt="image" src="https://github.com/user-attachments/assets/5fa825ca-cc38-487b-8499-89febf9a304c" /># IESTI05 - Detecção e Classificação de Carros e Placas de Trânsito com FOMO e YOLO
+# IESTI05 - Detecção e Classificação de Carros e Placas de Trânsito com FOMO e YOLO
 Documentação de todo o projeto de IESTI05 para a conclusão da primeira parte do curso.
 
 O Dataset completo está no link: 
