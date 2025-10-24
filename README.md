@@ -11,7 +11,7 @@ O vídeo de apresentação do projeto se encontra no link:
 <a href="https://youtu.be/LSTc_Py2tmI">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1024px-YouTube_full-color_icon_%282017%29.svg.png" width="20" alt="IESTI05 - Dataset + FOMO + YOLO">
 </a>
-https://youtu.be/fok5wJpBw3U
+https://youtu.be/LSTc_Py2tmI
 
 O vídeo com o Dataset, YOLO + FOMO se encontra no link: 
 <a href="https://youtu.be/fok5wJpBw3U">
