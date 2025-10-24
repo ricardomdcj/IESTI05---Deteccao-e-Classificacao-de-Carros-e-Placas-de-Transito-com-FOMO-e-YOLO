@@ -3,7 +3,7 @@ Documentação de todo o projeto de IESTI05 para a conclusão da primeira parte 
 
 O vídeo de apresentação do projeto se encontra no link: 
 
-O vídeo com o Dataset, YOLO + FOMO se encontra no link: [![IESTI05 - Dataset + FOMO + YOLO](https://img.youtube.com/vi/fok5wJpBw3U/maxresdefault.jpg)](https://youtu.be/fok5wJpBw3U)
+O vídeo com o Dataset, YOLO + FOMO se encontra no link: [![IESTI05 - Dataset + FOMO + YOLO](https://www.gstatic.com/youtube/img/creator/yt_studio_logo_v2_darkmode.svg)](https://youtu.be/fok5wJpBw3U)
 
 Os vídeos de inferência se encontram nos links:
 
