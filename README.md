@@ -1,5 +1,11 @@
-# IESTI05 - Detecção e Classificação de Carros e Placas de Trânsito com FOMO e YOLO
+<img width="984" height="895" alt="image" src="https://github.com/user-attachments/assets/5fa825ca-cc38-487b-8499-89febf9a304c" /># IESTI05 - Detecção e Classificação de Carros e Placas de Trânsito com FOMO e YOLO
 Documentação de todo o projeto de IESTI05 para a conclusão da primeira parte do curso.
+
+O Dataset completo está no link: 
+<a href="https://drive.google.com/drive/folders/1iF7GiTzVxIgI1hPQfgXQORUukcsSadim?usp=sharing">
+  <img src="https://s2-techtudo.glbimg.com/H0QJT81NtgvcT6atIK4UWEn9XpQ=/0x0:300x273/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/q/d/iHir97TsCsYKtZuZU5dw/2012-04-25-logo.png" width="20" alt="IESTI05 - Dataset + FOMO + YOLO">
+</a>
+https://drive.google.com/drive/folders/1iF7GiTzVxIgI1hPQfgXQORUukcsSadim?usp=sharing
 
 O vídeo de apresentação do projeto se encontra no link: 
 
