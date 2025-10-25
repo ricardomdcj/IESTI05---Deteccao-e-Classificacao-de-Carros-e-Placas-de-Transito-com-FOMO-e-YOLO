@@ -21,7 +21,7 @@ https://colab.research.google.com/drive/1wa5SFQ6qMzIJBY26MMZhW05hVO4jl7hV?usp=sh
 
 O treinamento do modelo FOMO se encontra no link:
 <a href="https://studio.edgeimpulse.com/public/804518/live">
-  <img src="https://avatars.githubusercontent.com/u/52098900?s=280&v=4" width="30" alt="IESTI05 - Dataset + FOMO + YOLO">
+  <img src="https://www.edgeimpulse.com/blog/content/images/size/w256h256/2024/01/edge-impulse-logo.png" width="20" alt="IESTI05 - Dataset + FOMO + YOLO">
 </a>
 https://studio.edgeimpulse.com/public/804518/live
 
