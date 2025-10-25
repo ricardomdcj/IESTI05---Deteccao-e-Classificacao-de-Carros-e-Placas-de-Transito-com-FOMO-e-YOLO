@@ -13,6 +13,18 @@ O vídeo de apresentação do projeto se encontra no link:
 </a>
 https://youtu.be/LSTc_Py2tmI
 
+O treinamento do modelo YOLO se encontra no link: 
+<a href="https://colab.research.google.com/drive/1wa5SFQ6qMzIJBY26MMZhW05hVO4jl7hV?usp=sharing">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Google_Colab_pic.png/1200px-Google_Colab_pic.png" width="20" alt="IESTI05 - Dataset + FOMO + YOLO">
+</a>
+https://colab.research.google.com/drive/1wa5SFQ6qMzIJBY26MMZhW05hVO4jl7hV?usp=sharing
+
+O treinamento do modelo FOMO se encontra no link:
+<a href="https://studio.edgeimpulse.com/public/804518/live">
+  <img src="https://avatars.githubusercontent.com/u/52098900?s=280&v=4" width="20" alt="IESTI05 - Dataset + FOMO + YOLO">
+</a>
+https://studio.edgeimpulse.com/public/804518/live
+
 O vídeo com o Dataset, YOLO + FOMO se encontra no link: 
 <a href="https://youtu.be/fok5wJpBw3U">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1024px-YouTube_full-color_icon_%282017%29.svg.png" width="20" alt="IESTI05 - Dataset + FOMO + YOLO">
